@@ -1,0 +1,14 @@
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+body {
+  background-color: beige;
+}
+
+footer {
+  font-size: 15px;
+  color: grey;
+  text-align:center;
+}
